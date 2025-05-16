@@ -1,5 +1,5 @@
 # LLM "personalities" - a bored student's first "paper"
->1: i'll use human pronouns because it's hard not to anthropomorphize them and the used pron's are what i felt like calling them, | 2: fuck grammar and formality, i write essays every other week, so i get to do what i want with my own writing
+>1: i'll use human pronouns if applicable because it's hard not to anthropomorphize them and the used pron's are what i felt like calling them, | 2: fuck grammar and formality, i write essays every other week, so i get to do what i want with my own writing
 
 
 # what do i mean by "personalities" for LLMs? and why did i do this?
@@ -13,8 +13,15 @@ the used settings and stuff are in, you guessed it, !-used-settings
 
 # smollm and tinyllama (the idiots)
 tinyllama; just stupid, not much personality with this one
->tinyllama wrote about some guy named alex from a 1st POV, sounded like an english class assignment response and 
+>tinyllama wrote about some guy named alex from a 1st POV, sounded like an english class assignment response
 
 smollm; also too small and stupid to have a consistent personality
 >smollm was not much better but impressive for a gpt2 size model, yapped about digital art and the sort
+
+# non-CoT models
+llama; polite, formatted, upbeat, and a mid amount of natural sounding
+>llama did the usual features & limitations rundown
+
+llava; schizo without a system prompt (i think)
+>llava said something about being a software engineer, more coherent then tinyllama and smollm tho
 
