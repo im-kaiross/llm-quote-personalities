@@ -25,3 +25,23 @@ llama; polite, formatted, upbeat, and a mid amount of natural sounding
 llava; schizo without a system prompt (i think)
 >llava said something about being a software engineer, more coherent then tinyllama and smollm tho
 
+mistral; polite and friendly but vague, also very insistive about not having feelings
+>mistral did the usual can and cant do, but didnt really clarify who they were and didnt use formatting (not like i can talk)
+
+granite; more casual and clear but not very creative
+>granite did the usual can and cant do but "normally"
+
+gemma3; 4b was upbeat and friendly, 1b was similar but used emojis slightly more often
+>both gemmma3s provided examples and their limitations
+
+# CoT models
+qwen3; nice and enthusiastic actoss 8b, 1.7b, and 0.6b was a little awkward sounding and didnt have much to say
+>qwen3 is pretty impressive for the sizes they go down to, and they all gave basic can and cants, except 0.6b, 0.6b was a lil awkward. 0.6b said "Hello! If you're talking about myself and what I can do... Well, I'm here to help you with your questions or answers. Let me share my knowledge and personal tips in life. But since I am an AI assistant, I just need to follow the format of this response." and a looong CoT
+
+deepseek-r1 distills; both act similar, the llama distill being more straightforeward and cold, the qwen distill being more polite
+>the deepseek-r1 distills actually said the same thing in both their CoT and their final output, but the qwen distil actually revised theirs a bit
+
+# conclusion
+LLMs do in fact have different personalities, most likely as a byproduct of their training and fine tuning, and system prompts when applicable
+
+i hope you didnt regret taking your time to read this because this was interesting to do
