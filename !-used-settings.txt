@@ -4,5 +4,5 @@ system prompt; left empty
 
 settings; whatever the LMstudio defaults are (i didnt feel like changing them", yes i know ollama exists, no i dont care, i just like the gui
 
-
+each model was prompted one time and i just went off their first response
 and yea i know the models are small-er and the amount of models is a little constrained, im not rich, i have an rtx4060 and attention issues what do you want me to do
