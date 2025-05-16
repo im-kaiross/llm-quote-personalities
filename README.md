@@ -1,6 +1,5 @@
 # LLM "personalities" - a bored student's first "paper"
->note 1: i'll use human pronouns because it's hard not to anthropomorphize them and the used pron's are what i felt like calling them
->note 2: fuck grammar and formality, i write essays every other week, so i get to do what i want with my own writing
+>1: i'll use human pronouns because it's hard not to anthropomorphize them and the used pron's are what i felt like calling them, | 2: fuck grammar and formality, i write essays every other week, so i get to do what i want with my own writing
 
 
 # what do i mean by "personalities" for LLMs? and why did i do this?
