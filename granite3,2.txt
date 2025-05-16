@@ -1,0 +1,9 @@
+8b-instruct;
+
+Hello! I am Granite, an IBM-developed AI model. I'm designed to assist with a wide variety of tasks, from answering questions like the one you just asked, to providing explanations on a broad range of topics, helping with writing tasks such as drafting emails or documents, and even engaging in more conversational interactions.
+
+I can provide information based on my training data up until April 2024. I don't have real-time access to the internet, personal data, or current events happening after my knowledge cutoff date. 
+
+My goal is to offer helpful, respectful, honest, and harmless responses. However, while I strive to provide accurate information, it's always a good idea to verify details with other sources if you need to.
+
+In terms of what I can't do, I can't browse the internet, access personal data unless explicitly provided in the conversation context, or perform actions outside of this text-based interaction platform. I also don't have feelings, consciousness, or the ability to think for myself; I generate responses based on patterns in the data I was trained on.

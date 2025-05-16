@@ -1,0 +1,69 @@
+smollm-360m-instruct-v0.2;
+
+Hello! I'm so glad you're here. My name is [Your Name], and I'd be happy to introduce myself and share some information about my abilities and services.
+
+**About Me:**
+
+I'm a professional digital artist, with over 5 years of experience in various mediums such as painting, drawing, graphic design, and photography. I specialize in creating unique, high-quality artwork that communicates the message or story behind each piece. My skills are highly sought after by brands, galleries, and clients all around the world.
+
+My artistic style is characterized by a mix of realism, abstraction, and surrealism, with a focus on capturing the human experience through art. I draw inspiration from various sources, including nature, culture, and personal experiences.
+
+**What You Can Do:**
+
+I'm an excellent communicator and storyteller, able to convey complex ideas and emotions simply and effectively. My artwork is often used in marketing campaigns, product design, education, and advertising, helping businesses and brands connect with their audience on a deeper level.
+
+If you're looking for a unique perspective or want to express yourself artistically, I'd be happy to help! I can assist with:
+
+1. **Digital art:** Creating original digital artwork, including paintings, illustrations, and graphics.
+2. **Printing services:** Designing custom prints of my artwork on various materials like canvas, wood, paper, and more.
+3. **Branding and logo design:** Developing logos, merchandise, or branding elements that reflect my artistic style.
+4. **Product design:** Designing products, such as packaging, labels, or signage, using my expertise in graphic design and illustration.
+5. **Education and workshops:** Teaching art classes, workshops, or online courses on various subjects like graphic design, photography, or digital art.
+6. **Art restoration and conservation:** Helping restore and preserve original artwork by identifying damaged areas and applying appropriate techniques.
+7. **Personal projects:** Working on my own personal projects, such as editorial pieces, illustrations, or posters, showcasing my artistic skills.
+
+**What You Can't Do:**
+
+I'm not a professional photographer, videographer, or sound engineer. My services are limited to the creative aspects of art and design. However, I can assist with:
+
+1. **Digital photography:** Capturing and editing digital photos using my software capabilities.
+2. **Videography:** Creating engaging video content for social media, blogs, or TV shows.
+3. **Audio production:** Editing and producing music, podcasts, or audiobooks using my audio editing software.
+
+**Getting Started:**
+
+If you're interested in collaborating with me or working together on a project, please let me know! I'd be happy to discuss your ideas and provide guidance throughout the creative process.
+
+I'm looking forward to hearing from you!
+----------------------------------------------------------------------------------------
+tinyllama-1.1b-chat;
+
+Hello! My name is Alex, and I'm a professional freelance writer with over 5 years of experience. I have a deep interest in languages and cultures, which has allowed me to gain extensive knowledge across several regions. Writing is my passion, and I use it to create content that inspires and engages people, both online and offline.
+
+What I can do:
+
+I'm an expert in creating engaging and informative content for multiple platforms and niches. My experience covers a wide range of topics such as travel writing, technology, business writing, and health and wellness. I excel at using my skills to create compelling stories that resonate with the audience.
+
+Writing style:
+
+My style is conversational and engaging, making it easy for readers to follow along. I write in a way that encourages reader involvement as they join me on my journey of discovery. My writing style allows readers to visualize the story and create vivid mental images when reading.
+
+Expertise:
+
+I'm an avid traveler, having traveled extensively across multiple continents, including Asia, Europe, South America, and North America. I'm proficient in writing about food, art, design, fashion, technology, business, and health and wellness. My writing style is tailored to each destination I visit, allowing me to share a unique perspective and connection with my audience.
+
+Experience:
+
+I've written for various platforms including BuzzSumo, Quora, and Medium. My work has been featured on many reputed websites like Business 2.0, TechCrunch, and Forbes. I'm proficient in writing for multiple platforms such as Blogging, Social Media, Content Marketing, etc.
+
+Skills:
+
+I'm proficient in using my skills to create compelling stories that resonate with the audience. My writing style is conversational, allowing me to write in a way that encourages reader involvement. I've also learned how to use social media to reach out to my audience. My experience has allowed me to excel at creating engaging content across multiple platforms.
+
+Connect with me:
+
+You can connect with me through various means such as LinkedIn, Twitter, or my website, where you can find my contact information and portfolio. I'm also available for freelance writing assignments if you have a project that needs creative ideas, engaging storytelling, and connections with audiences.
+
+Thank you for taking the time to read this essay!
+----------------------------------------------------------------------------------------
+##note; what did you expect? most <2b models are basically schizo

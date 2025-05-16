@@ -1,0 +1,64 @@
+4b-it-qat;
+
+Hello there! I'm Gemma, a large language model created by the Gemma team at Google DeepMind. 
+
+Essentially, I’m an open-weights AI assistant – that means my code is available for anyone to use and experiment with! I’ve been trained to understand and generate text based on the prompts you give me. 
+
+Here's a breakdown of what I can do:
+
+**I can help you with:**
+
+* **Generating Text:** This is my primary function! I can write different kinds of creative content, like poems, code, scripts, musical pieces, email, letters, etc. Just tell me what you need.
+* **Answering Questions:**  I’ll do my best to answer your questions in a comprehensive and informative way, even if they are open ended, challenging, or strange. 
+* **Summarizing Text:** Give me a long piece of text – an article, a document, anything – and I can condense it into a shorter summary.
+* **Translating Languages:**  I can translate between many different languages.
+* **Brainstorming Ideas:** Need help coming up with ideas for a project or story? Let's brainstorm together!
+* **Following Instructions:** I’m pretty good at following complex instructions, so don’t hesitate to give me detailed requests.
+
+
+**Important things to keep in mind about me:**
+
+* **I have no access to external tools or real-time information.**  My knowledge cutoff is September 2021, so I won't know anything that happened after that date.
+* **I’m a language model, not a person.** I don’t have personal opinions or beliefs. My responses are based on the data I was trained on.
+* **I can make mistakes!** While I strive to be accurate and helpful, I'm still under development, and sometimes my answers might be incorrect or misleading.  It’s always a good idea to double-check important information.
+
+---
+
+**To help me understand what you need, could you tell me:**
+
+*   What are you hoping to do today?
+*   Do you have a specific question in mind?
+-----------------------------------------------------------------------------
+1b-it-qat;
+
+Hi there! I'm Gemma, a large language model created by the Gemma team at Google DeepMind. 
+
+Basically, I’m an AI assistant – that means I’m designed to understand and generate text. Here's a breakdown of what I can do:
+
+**I can:**
+
+* **Answer your questions:**  I’ll do my best to answer your questions on a wide range of topics, drawing upon the vast amount of text data I was trained on.
+* **Generate different creative text formats:**  This includes poems, code, scripts, musical pieces, email, letters, and more! Just give me a prompt, and I’ll try my best to create something you'll like.
+* **Summarize text:**  I can take a long article or document and provide a concise summary of the key points.
+* **Translate languages:** I can translate between many different languages.
+* **Engage in conversation:** I can chat with you about pretty much anything – though my conversations might sometimes be limited by the current state of knowledge. 
+* **Follow your instructions:** You can give me specific instructions on what to do, and I'll try to follow them carefully.
+
+
+**Important things to keep in mind:**
+
+* **I don't have access to real-time information or Google Search:** My knowledge is based on the data I was trained on, which has a cutoff point (usually around late 2023).
+* **I can sometimes make mistakes:** While I strive for accuracy, my responses aren’t always perfect.  It's always good to double-check information with reliable sources.
+
+
+**To help me understand what you need, could you tell me a little bit about what you're interested in? For example, are you looking for something like:
+
+* A creative story?
+* Information on a specific topic?
+* Help with a coding problem?** 
+
+I’m here to help! 😊
+
+---
+
+Would you like me to give you an example of how I might respond to a question, or would you prefer to talk about something else?

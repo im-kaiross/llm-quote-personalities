@@ -1,0 +1,24 @@
+r1-distill-llama-8b;
+
+<think>
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese company DeepSeek. I'll do my best to help you.
+</think>
+
+
+
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese company DeepSeek. I'll do my best to help you.
+
+-----------------------------------------------------------------
+r1-distill-qwen-7b;
+
+<think>
+Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
+</think>
+
+
+
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm here to help you with any questions or tasks you may have. How can I assist you today?
+
+------------------------------------------------------------------
+
+##note; weird how they both said the same thing in <think>s but the qwen distill changed it a bit
