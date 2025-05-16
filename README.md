@@ -8,5 +8,13 @@ to sum it up, i noticed when interacting with all sorts of LLMs they all acted a
 
 # let's get started
 >note: i dont know formatting for shit so i'll jsut use basic ascii stuff but i'll try to make it look ok
+we're gonna start with the smaller models first, i used tinyllama, smollm, qwen3, gemma3, granite3.2, mistral, llama3.1, llava1.5, and 2 llama/qwen distills of deepseek-r1
+the used settings and stuff are in, you guessed it, !-used-settings
 
-we're gonna start with the smaller models first
+# smollm and tinyllama (the idiots)
+tinyllama; just stupid, not much personality with this one
+>tinyllama wrote about some guy named alex from a 1st POV, sounded like an english class assignment response and 
+
+smollm; also too small and stupid to have a consistent personality
+>smollm was not much better but impressive for a gpt2 size model, yapped about digital art and the sort
+
